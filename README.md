@@ -1,2 +1,2 @@
 # hello-team
-Test project for repository
+Test project for repository.
